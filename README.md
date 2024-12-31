@@ -1,6 +1,6 @@
 # cairoshell.flat-minimal
 Theme for [Cairo Shell](https://github.com/cairoshell/cairoshell)
-![Theme Preview]("Preview.png")
+![Theme Preview]("https://github.com/shan-sherif/cairoshell.flat-minimal/blob/main/Preview.png")
 Based on Flat Accent theme, I have made the Menu bar and Taskbar solid black as well as changing the Logo and font.
 
 ## Instructions
